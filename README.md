@@ -1,8 +1,4 @@
-Absolutely! Here's the **entire `README.md` content in a single block**, including the improved instructions with the browser opening step — just copy and paste this into your `README.md` file:
 
----
-
-```markdown
 # 🧮 Calculator
 
 A simple, responsive calculator built with HTML, CSS, and JavaScript. This project demonstrates basic frontend development skills and provides a clean, user-friendly interface for performing arithmetic operations.
