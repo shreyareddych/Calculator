@@ -25,6 +25,4 @@ To get a local copy up and running on your machine:
 ```bash
 git clone https://github.com/shreyareddych/Calculator.git
 cd Calculator
-After navigating into the project folder, open the index.html file in your browser. You can do this by:
 
-Double-clicking the index.html file
