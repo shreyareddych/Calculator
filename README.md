@@ -16,10 +16,6 @@ A simple, responsive calculator built with HTML, CSS, and JavaScript. This proje
 - **CSS** – Styling and responsive layout  
 - **JavaScript** – Calculator logic and interactivity  
 
-## 📸 Demo
-
-![Calculator Screenshot](screenshot.png)  
-> *You can add a screenshot of your calculator and rename it to `screenshot.png`, or update the filename above.*
 
 ## 🚀 Getting Started
 
